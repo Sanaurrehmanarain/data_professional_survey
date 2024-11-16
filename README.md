@@ -1,8 +1,9 @@
 # data_professional_survey
 
-Overview
+## Overview
 This interactive dashboard visualizes the results of a comprehensive survey conducted among data professionals, providing insights into salary trends, programming language preferences, job titles, work satisfaction, and demographic information across different countries.
-Key Insights
+
+## Key Insights
 
 Survey Scope: 630 respondents with an average age of 29.87 years
 Job Satisfaction Metrics:
@@ -14,7 +15,7 @@ Salary Satisfaction Score: 4.27/10
 Gender Distribution: Nearly balanced representation with slight male majority
 Geographic Coverage: Primary focus on Canada, India, United Kingdom, United States, and other regions
 
-Dashboard Components
+## Dashboard Components
 1. Programming Language Analysis
 
 Bar chart showing popularity of different programming languages
@@ -50,13 +51,13 @@ Salary satisfaction
 
 Scale of 0-10 for easy interpretation
 
-Technical Stack
+## Technical Stack
 
 Data visualization framework
 Interactive dashboard capabilities
 Data processing tools for survey analysis
 
-Data Structure
+## Data Structure
 The dashboard processes data with the following dimensions:
 
 Programming Language preferences
@@ -67,7 +68,7 @@ Gender
 Age
 Satisfaction metrics
 
-Usage
+## Usage
 Users can:
 
 Filter data by job title, country, or programming language
